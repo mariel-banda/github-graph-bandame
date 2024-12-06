@@ -10,4 +10,7 @@
 10. Upload Meme in **bug-fix-experimental**
 11. Update STEPS.md in **bug-fix-experimental**
 12. Merge from **bug-fix-experimental** to **bug-fix**
+    - Resolved merge conflict by editing STEPS.md file
 13. Update STEPS.md in **bug-fix**
+14. Merge from **bug-fix** to **main**
+15. Update STEPS.md in **main**
